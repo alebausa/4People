@@ -1,0 +1,50 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Montserrat', sans-serif; */
+
+h1, h2, h3 {
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.jumbotron {
+  background-image: url('../images/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+
+.card {
+  display: block;
+  margin: 0 auto;
+  border: 0px;
+}
+
+.about-us {
+  background-color: #F6F6F6;
+  padding: 20px 10px;
+  margin: 20px 0;
+}
+
+.btn-primary {
+  background-color: #F5245F;
+  border: #F5245F;
+  color: black;
+}
+
+.btn-primary:hover {
+  background-color: #FFD166;
+  color: black;
+}
+
+.dark {
+  background-color: #2a2a2e;
+  color: white;
+}
+
