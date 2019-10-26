@@ -1,19 +1,38 @@
 /* font-family: 'Open Sans', sans-serif;
 font-family: 'Montserrat', sans-serif; */
 
+h1, h2, h3 {
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .card {
   display: block;
   margin: 0 auto;
-  border: 0px !important;
+  border: 0px;
 }
 
 .bg-grey {
-  background-color: lightgray;
-  padding: 5px;
+  background-color: #F6F6F6;
+  padding: 20px;
 }
 
 .btn-primary {
-  background-color: #F5245F !important;
-  border: #F5245F !important;
-  color: black !important;
+  background-color: #F5245F;
+  border: #F5245F;
+  color: black;
+}
+
+.btn-primary:hover {
+  background-color: #FFD166;
+  color: black;
+}
+
+.jumbotron {
+  background-color: light-blue;
 }
