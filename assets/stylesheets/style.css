@@ -70,3 +70,9 @@ p {
   margin-top: 5px;
   margin-bottom: 5px;
 }
+
+hr {
+  display: block;
+  width: 60%;
+  margin: 20px auto;
+}
