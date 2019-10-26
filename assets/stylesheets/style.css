@@ -76,7 +76,7 @@ p {
   margin-bottom: 5px;
 }
 
-hr {
+.middle-hr {
   display: block;
   width: 60%;
   margin: 20px auto;
