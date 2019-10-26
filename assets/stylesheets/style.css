@@ -44,6 +44,11 @@ p {
   margin: 20px 0;
 }
 
+.slogan {
+  color: #F5245F;
+  font-style: italic;
+}
+
 .btn-primary {
   background-color: #F5245F;
   border: #F5245F;
