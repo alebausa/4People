@@ -1,3 +1,19 @@
-body {
-  background-color: lightblue;
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Montserrat', sans-serif; */
+
+.card {
+  display: block;
+  margin: 0 auto;
+  border: 0px !important;
+}
+
+.bg-grey {
+  background-color: lightgray;
+  padding: 5px;
+}
+
+.btn-primary {
+  background-color: #F5245F !important;
+  border: #F5245F !important;
+  color: black !important;
 }
